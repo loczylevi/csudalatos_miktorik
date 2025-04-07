@@ -14,7 +14,7 @@
 ### 20 gb ha windows servernek elég akkor ennek is punk tum
 <img src="t4.png" title="skibidi" alt="mikrotik tutorial hun">
 
-### győződj meg róla hogy ezek vannak beállitva skibidi flopyt ved ki mert az 1990 még lehet hogy meta volt most már pendrive a goated
+### győződj meg róla hogy ezek vannak beállitva skibidi flopyt ved ki mert az 1990-ben még lehet hogy meta volt most már pendrive a goated
 <img src="t5.png" title="skibidi" alt="mikrotik tutorial hun">
 
 ### "i" betü mint istall (oda van irva xd)
