@@ -1,7 +1,7 @@
 # csudalatos miktorik kezdőlépések
 
 
-<img src="t1.png" title="skibidi" alt="mikrotik tutorial hun">
+<img src="microtik/t1.png" title="skibidi" alt="mikrotik tutorial hun">
 
 ### name: opcionális akár skibidi is lehet | válassz ki egy mikrotik iso fáljt nyilván -no shit sherlock | 
 ## FONTOS valamié' typenál csak linuxt fogadd el és lehetöleg 64 bites legyen mert ugye nem kökorszakban élünk
