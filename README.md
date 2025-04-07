@@ -1,4 +1,4 @@
-# csudalatos miktorik
+# csudalatos miktorik kezdőlépések
 
 
 <img src="t1.png" title="skibidi" alt="mikrotik tutorial hun">
